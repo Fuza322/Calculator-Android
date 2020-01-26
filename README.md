@@ -11,7 +11,3 @@
 * Functions like sin, cos etc. deleting properly
 
 * BaseFragment and ScientificFragment passing data to MainActivity through interface (more abstractions - better app)
-
-## Screenshots
-
-![](./screenshot.png)
